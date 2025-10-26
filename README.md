@@ -39,20 +39,20 @@ To complete this project, ensure you have:
 - **Structured Learning Path:** Builds concepts step-by-step for clarity.  
 - **Professional Standards:** Follows industry norms for requirement documentation.  
 
-🧩 What is Requirement Analysis?
+##🧩 What is Requirement Analysis?
 
 Requirement Analysis is a critical stage in the Software Development Life Cycle (SDLC) that focuses on understanding and documenting what a system should do. It involves gathering, analyzing, and validating user needs and business goals to create a clear, actionable foundation for design and development.
 
-💡 Importance of Requirement Analysis in SDLC
+##💡 Importance of Requirement Analysis in SDLC
 
-Clarity & Understanding: Ensures a shared vision between developers, clients, and stakeholders.
+-Clarity & Understanding: Ensures a shared vision between developers, clients, and stakeholders.
 
-Reduces Errors: Identifies issues early, minimizing costly rework and misunderstandings.
+-Reduces Errors: Identifies issues early, minimizing costly rework and misunderstandings.
 
-Improves Planning: Provides accurate information for estimating timelines, resources, and budgets.
+-Improves Planning: Provides accurate information for estimating timelines, resources, and budgets.
 
-Enhances Quality: Leads to software that meets user expectations and business objectives.
+-Enhances Quality: Leads to software that meets user expectations and business objectives.
 
-Strengthens Communication: Bridges the gap between technical and non-technical teams.
+-Strengthens Communication: Bridges the gap between technical and non-technical teams.
 
-Supports Validation: Defines measurable criteria for testing and verifying system functionality.
+-Supports Validation: Defines measurable criteria for testing and verifying system functionality.
