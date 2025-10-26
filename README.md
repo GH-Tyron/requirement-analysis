@@ -168,3 +168,29 @@ Below is the use case diagram that illustrates the interactions between users an
 ### 📊 Use Case Diagram
 
 ![Booking System Use Case Diagram](./alx-booking-uc.png)
+
+## ✅ Acceptance Criteria
+
+### 📘 What is Acceptance Criteria?
+**Acceptance Criteria** are predefined conditions or statements that must be met for a feature or functionality to be considered complete and accepted by the client or stakeholders.  
+They help ensure that each system feature fulfills the requirements and performs as expected.
+
+Acceptance criteria serve as a **bridge between requirements and testing**, allowing both developers and testers to verify that the delivered product meets user needs and aligns with business goals.
+
+### 🎯 Importance of Acceptance Criteria
+- **Ensures clarity** – Defines clear expectations for each feature before development begins.  
+- **Reduces misunderstandings** – Aligns developers, testers, and stakeholders on the same page.  
+- **Improves quality assurance** – Provides a reference for validating whether a feature works correctly.  
+- **Supports user satisfaction** – Guarantees that the system delivers the intended user experience.  
+- **Facilitates testing** – Enables QA teams to write effective test cases directly from the acceptance criteria.
+
+### 💡 Example: Acceptance Criteria for the **Checkout Feature**
+**Feature:** Checkout Process in the Booking Management System  
+
+**Acceptance Criteria:**
+1. The user must be able to review their selected property details before confirming the booking.  
+2. The checkout page must display the total cost, including taxes and fees.  
+3. Users must be able to input valid payment details (credit/debit card, PayPal, etc.).  
+4. Upon successful payment, the system should generate a booking confirmation with a unique booking ID.  
+5. If payment fails, the user should receive a clear error message and be prompted to retry.  
+6. The booking confirmation email must be automatically sent to the user within one minute of successful checkout.  
