@@ -66,3 +66,37 @@ This minimizes the risk of misinterpretations, missed functionalities, and expen
 ### 3. 🚀 Enhances Software Quality and User Satisfaction
 When requirements are well-analyzed and validated, the resulting software meets user expectations more effectively.  
 A clear understanding of functional and non-functional needs leads to systems that are more **usable**, **reliable**, and **maintainable**, increasing overall user satisfaction and system longevity.
+
+## 🧠 Key Activities in Requirement Analysis
+The **Requirement Analysis** phase involves a series of structured activities designed to ensure that the software being developed meets the needs and expectations of users and stakeholders.  
+Below are the **five key activities** that form the backbone of this process:
+
+### 1. 📋 Requirement Gathering
+- Involves collecting initial information from stakeholders, clients, and end-users.  
+- Helps identify business objectives, constraints, and high-level system expectations.  
+- Techniques such as **interviews**, **questionnaires**, and **workshops** are often used.  
+- The goal is to obtain a clear and complete list of what the system should achieve.
+
+### 2. 🗣️ Requirement Elicitation
+- Focuses on extracting detailed and precise requirements from stakeholders.  
+- Encourages collaboration to understand the *why* behind each requirement.  
+- Involves observing users, conducting brainstorming sessions, and studying existing systems.  
+- Ensures that hidden, implicit, and conflicting needs are uncovered early.
+
+### 3. 📝 Requirement Documentation
+- Converts gathered and elicited information into a structured format for clarity and communication.  
+- Common documents include the **Software Requirement Specification (SRS)**, **User Stories**, and **Use Case Diagrams**.  
+- Well-documented requirements serve as a reference point for designers, developers, and testers.  
+- Promotes transparency and ensures all stakeholders agree on project scope.
+
+### 4. 🧩 Requirement Analysis and Modeling
+- Involves breaking down and categorizing requirements into **functional** and **non-functional** groups.  
+- Helps visualize system behavior and interactions using tools like **UML** and **Draw.io** diagrams.  
+- Identifies dependencies, inconsistencies, and feasibility concerns.  
+- Supports the creation of logical models that represent how the system will operate.
+
+### 5. ✅ Requirement Validation
+- Ensures the documented requirements accurately represent stakeholder needs and business goals.  
+- Involves reviewing, prototyping, and performing walkthroughs to confirm completeness and correctness.  
+- Detects gaps or ambiguities before design and development begin.  
+- Validated requirements act as the **baseline** for all future stages of the SDLC.
