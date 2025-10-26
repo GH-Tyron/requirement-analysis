@@ -100,3 +100,35 @@ Below are the **five key activities** that form the backbone of this process:
 - Involves reviewing, prototyping, and performing walkthroughs to confirm completeness and correctness.  
 - Detects gaps or ambiguities before design and development begin.  
 - Validated requirements act as the **baseline** for all future stages of the SDLC.
+
+## 🧾 Types of Requirements
+In software engineering, requirements are broadly categorized into **Functional** and **Non-functional Requirements**.  
+Both are essential in ensuring that the system operates effectively and meets stakeholder expectations.
+
+### ⚙️ Functional Requirements
+**Definition:**  
+Functional requirements describe *what* the system should do — the specific behaviors, features, and operations that enable users to accomplish tasks.  
+They define how the system responds to inputs, handles processes, and produces outputs.
+
+**Examples for the Booking Management System:**
+- 🏠 The system shall allow users to **browse and search available accommodations** by date, location, and price range.  
+- 🧾 The system shall allow users to **make, modify, or cancel bookings** through their accounts.  
+- 👤 The system shall allow users to **register and log in** using email and password.  
+- 💳 The system shall enable **secure payment processing** through integrated payment gateways.  
+- 📅 The system shall display **real-time room availability** and prevent double bookings.  
+- 📧 The system shall send **email confirmations and reminders** to users after successful bookings.  
+- 🧑‍💼 The system shall provide **administrators** with access to manage users, bookings, and property listings.
+
+### 🧠 Non-functional Requirements
+**Definition:**  
+Non-functional requirements define *how* the system performs its functions rather than what it does.  
+They describe system attributes such as performance, usability, reliability, and security — ensuring a high-quality user experience.
+
+**Examples for the Booking Management System:**
+- ⚡ **Performance:** The system should load search results within **3 seconds** under normal server load.  
+- 🔐 **Security:** All sensitive data (e.g., user credentials and payment details) must be encrypted using **SSL/TLS protocols**.  
+- 📱 **Usability:** The interface should be **responsive** and accessible on desktops, tablets, and mobile devices.  
+- 🧩 **Scalability:** The system should support at least **10,000 concurrent users** without performance degradation.  
+- 🧍 **Reliability:** The system should maintain **99.9% uptime** to ensure continuous service availability.  
+- 💬 **Maintainability:** The system codebase should be modular and well-documented for easier updates and debugging.  
+- 🌐 **Localization:** The application should support **multiple currencies and languages** for international users.
