@@ -47,10 +47,9 @@ During this stage, the development team works closely with stakeholders such as 
 
 ## Importance of Requirement Analysis in SDLC
 
---Clarifies Project Scope: It establishes a clear understanding of what the system should accomplish, helping avoid scope creep and misaligned expectations.
-
---Enhances Communication: It creates a shared understanding between developers, stakeholders, and clients, ensuring that everyone agrees on project goals.
---Improves System Design: A thorough requirement analysis provides a solid foundation for designing an efficient, scalable, and user-friendly system.
---Reduces Development Costs: Identifying requirements early prevents rework, saving time, resources, and money during later stages of development.
---Ensures Quality and Usability: Clearly defined requirements lead to better testing, ensuring that the final product meets user needs and performs as expected.
---Facilitates Project Management: Well-documented requirements help project managers plan timelines, allocate resources, and monitor progress effectively.
+--**Clarifies Project Scope: It establishes a clear understanding of what the system should accomplish, helping avoid scope creep and misaligned expectations.
+--**Enhances Communication: It creates a shared understanding between developers, stakeholders, and clients, ensuring that everyone agrees on project goals.
+--**Improves System Design: A thorough requirement analysis provides a solid foundation for designing an efficient, scalable, and user-friendly system.
+--**Reduces Development Costs: Identifying requirements early prevents rework, saving time, resources, and money during later stages of development.
+--**Ensures Quality and Usability: Clearly defined requirements lead to better testing, ensuring that the final product meets user needs and performs as expected.
+--**Facilitates Project Management: Well-documented requirements help project managers plan timelines, allocate resources, and monitor progress effectively.
