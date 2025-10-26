@@ -132,3 +132,39 @@ They describe system attributes such as performance, usability, reliability, and
 - 🧍 **Reliability:** The system should maintain **99.9% uptime** to ensure continuous service availability.  
 - 💬 **Maintainability:** The system codebase should be modular and well-documented for easier updates and debugging.  
 - 🌐 **Localization:** The application should support **multiple currencies and languages** for international users.
+
+## 🧩 Use Case Diagrams
+
+### What is a Use Case Diagram?
+A **Use Case Diagram** is a visual representation of how users (known as *actors*) interact with a system. It shows the different functionalities or *use cases* that the system provides and the relationships between users and those functionalities.
+
+Use case diagrams are commonly used during **Requirement Analysis** to capture the functional requirements of a system in a simple and easy-to-understand format.
+
+### 🎯 Benefits of Use Case Diagrams
+- **Clarity** – They provide a clear overview of system interactions from a user’s perspective.  
+- **Communication Tool** – Help bridge the gap between technical and non-technical stakeholders.  
+- **Requirement Validation** – Ensure all user needs and interactions are captured accurately.  
+- **System Scope Definition** – Clearly outline what features are included in the system.  
+
+### 🧠 Use Case Diagram for the Booking Management System
+
+Below is the use case diagram that illustrates the interactions between users and the booking system.
+
+#### 👥 **Actors:**
+- **Guest** – Can browse listings, make bookings, and cancel bookings.  
+- **Host** – Can list properties, manage listings, and confirm bookings.  
+- **Admin** – Can manage users, view system reports, and handle disputes.  
+
+#### ⚙️ **Use Cases:**
+- Register / Login  
+- Search for properties  
+- Book a property  
+- Cancel booking  
+- Add property listing  
+- Update or remove listing  
+- Approve or reject booking  
+- Generate reports
+
+### 📊 Use Case Diagram
+
+![Booking System Use Case Diagram](./alx-booking-uc.png)
